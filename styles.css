@@ -1,0 +1,141 @@
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.logo{
+    height: 58px;
+    margin-top: -15px;
+}
+
+.nav-tabs li a {
+      color: #777;
+  }
+
+.navbar-nav li a:hover {
+      color: #1bbb3f !important;
+  }
+
+.container {
+      padding: 80px 120px;
+  }
+
+.btn {
+      padding: 10px 20px;
+      background-color: #1bbb3f;
+      color: #f1f1f1;
+      border-radius: 0;
+      transition: .2s;
+  }
+.btn:hover, .btn:focus {
+      border: 1px solid white;
+      background-color: white;
+      color: white;
+  }
+
+.navbar {
+      
+      margin-bottom: px;
+      background-color: white;
+      border: 0 ;
+      font-size: 13px !important;
+      letter-spacing: 4px;
+      opacity: 1;
+  }
+
+.navbar li a, .navbar .navbar-brand { 
+      color: #2d2d30 !important;
+      margin: 10px;
+  }
+
+.navbar-default .navbar-toggle {
+    border-color: white;
+    background-color: white;
+  }
+
+
+  
+button {
+    
+}
+
+
+footer {
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:white;
+   padding-top: 15px;
+   font-size: 13px !important;
+    letter-spacing: 4px;
+    opacity: 0.95;
+}
+
+#Wat {
+    
+    padding-left: 120px;
+    padding-top: 65px;
+}
+
+#Waarom {
+    margin-left: 120px;
+    padding: 60px;
+    margin-top: 50px;
+}
+
+#Waarom .row img{
+    padding-top: 50px;
+}
+
+#Wanneer .row img{
+    padding-top: 20px;
+}
+.row img{
+    padding-top: 20px;
+}
+
+#box-wrapper{
+    background-image: url(Header1.jpg);
+    background-size: cover;
+    min-height:500px;
+    max-height:600px;
+}
+
+#box-wrapper h1{
+    font-size: 50px !important;
+    letter-spacing: 4px;
+    padding:0px;
+    color: White;
+}
+
+#box-wrapper h4{
+    font-size: 20px !important;
+    letter-spacing: 4px;
+    padding:0px;
+    color: White;
+}
+
+
+
+#Wanneer {
+    padding-left:180px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#Contact {
+    padding-bottom: 0px;
+    padding-top: 00px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.row h2 {
+    color:#1bbb3f;
+    letter-spacing: 1px;
+    font-size: 38x !important;
+    font-weight: bold;
+    
+}
